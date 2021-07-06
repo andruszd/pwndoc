@@ -12,8 +12,12 @@
     "test": "echo \"No test specified\" && exit 0"
   },
   "dependencies": {
+
+ 
+    "axios": "^0.21.1",
+
     "@quasar/extras": "^1.10.4",
-    "axios": "^0.18.1",
+
     "diff": "^4.0.2",
     "js-yaml": "^3.13.1",
     "jwt-decode": "^2.2.0",
