@@ -21,7 +21,7 @@
     "diff": "^4.0.2",
     "js-yaml": "^3.13.1",
     "jwt-decode": "^2.2.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.17",
     "quasar": "^1.15.13",
     "socket.io-client": "^2.3.0",
 
