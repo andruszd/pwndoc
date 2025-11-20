@@ -32,7 +32,7 @@
     "htmlparser2": "^9.1.0",
     "http": "0.0.0",
     "image-size": "^1.1.1",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "jsonwebtoken": "^9.0.2",
     "pizzip": "^3.1.7",
     "lodash": "^4.17.21",
